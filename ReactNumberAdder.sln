@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactNumberAdder", "ReactNumberAdder\ReactNumberAdder.csproj", "{864F3190-F044-47A0-A26A-26B4A5F9AA79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864F3190-F044-47A0-A26A-26B4A5F9AA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864F3190-F044-47A0-A26A-26B4A5F9AA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864F3190-F044-47A0-A26A-26B4A5F9AA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864F3190-F044-47A0-A26A-26B4A5F9AA79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DF9A4F-4D46-4A65-9DE0-DFDA78B7BA43}
+	EndGlobalSection
+EndGlobal
